@@ -1,0 +1,92 @@
+* {
+	
+	color: black;	
+	text-align: center;
+
+}
+
+body {
+	font-family:"Courier New", monospace;
+	width: 960px;
+	margin: 0 auto;
+
+}
+
+nav {
+	font-family: "Courier New", monospace;
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+}
+
+td {
+	border: 5px;
+	border-style: dashed;
+	border-color: pink;
+}
+
+li {
+	font-family: "Courier New", monospace;
+	display: inline;
+	padding: 25px;
+}
+
+.menuitem {
+		
+		font-family: "Courier New", monospace;
+
+}
+
+
+
+body {
+	font-family:"Courier New", monospace;
+	background-color: blanchedalmond;
+}
+
+main{
+	font-family:"Courier New", monospace;
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+	background-color: blanchedalmond;
+
+}
+.mydarlingpink {
+	background-color: lightpink;
+}
+
+/*style="background-color: lightpink;"
+style="background-color: lightpink;"
+style="color: black" style="font-family: Arial, Helevetica, sans-serif;"*/
+
+
+article{
+	font-family: "Times New Roman", Times, serif;
+	background-color: #efefef;
+	padding: 0px;
+	margin: 10px;
+	width: 280px;
+	float: right;
+	border-style: dashed;
+	border-width: 2px;
+
+}
+
+title{
+	font-family: "Trebuchet MS" sans-serif;
+	border: hotpink;
+	border-style: dashed;
+	margin: 10px;
+}
+
+li{
+	font-family:"georgia", serif !important;
+	font-size: 15px;
+	margin: 10px;
+	list-style-type: circle;
+}
+
+
+
+
